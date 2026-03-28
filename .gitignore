@@ -1,4 +1,16 @@
+# macOS
 .DS_Store
+
+# Generated database files
+*.sqlite
+*.db
+*.sqbpro
+
+# Python
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
+*.pyo
+
+# IDE
+.vscode/
+.idea/
