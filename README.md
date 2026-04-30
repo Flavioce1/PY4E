@@ -1,5 +1,11 @@
 # Python for Everybody (PY4E)
 
+> **Status: Specialization Completed (2026)** — [View Certificate (PDF)](Certificate/PY4E-Specialization.pdf)
+
+<p align="center">
+  <img src="Certificate/PY4E-Specialization.png" alt="Python for Everybody Specialization Certificate" width="700">
+</p>
+
 My solutions to the [Python for Everybody](https://www.py4e.com/) Coursera Specialization by Dr. Charles Severance (University of Michigan).
 
 ## Repository Structure
